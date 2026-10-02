@@ -68,7 +68,7 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://aqua
 ## 📫 Get in touch
 
 - 📧 Email: [support@aqualearn.ac.tz](support@aqualearn.ac.tz)
-- 💼 LinkedIn: [linkedin.com/in/aqua]([https://linkedin.com/in/name](https://www.linkedin.com/in/aquasmas-undefined-89a5b841a/))
+- 💼 LinkedIn: [linkedin.com/in/aqua](https://www.linkedin.com/in/aquasmas-undefined-89a5b841a/)
 - 🌐Website: [website](aqualearn.ac.tz)
 
 <p align="center">
