@@ -12,7 +12,7 @@
 
 ## 🚀 About me
 
-I'm a web and mobile app developer and the **creator of [AquaLearn](https://link-ya-aqualearn)**, a large technology learning platform in Tanzania. AquaLearn's mission is to give Tanzanians an accessible way to learn tech skills, wherever they are.
+I'm a web and mobile app developer and the **creator of [AquaLearn](https://aqualearn.ac.tz)**, a large technology learning platform in Tanzania. AquaLearn's mission is to give Tanzanians an accessible way to learn tech skills, wherever they are.
 
 - 🌍 I build products that solve real problems in our communities
 - 💻 I work across the stack: frontend, backend, databases and deployment
@@ -25,7 +25,7 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://link
 
 **AquaLearn** is a technology learning platform built for students and aspiring developers in Tanzania.
 
-- 🔗 **Visit:** [link-ya-aqualearn](https://link-ya-aqualearn)
+- 🔗 **Visit:** [link-ya-aqualearn](https://aqualearn.ac.tz)
 - 📚 Courses and tutorials on technology
 - 👥 A community of learners and professionals growing together
 
@@ -40,13 +40,13 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://link
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,7 +59,7 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://link
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🌊 **AquaLearn** | Technology learning platform in Tanzania | [Website](https://link-ya-aqualearn) |
+| 🌊 **AquaLearn** | Technology learning platform in Tanzania | [Website](https://aqualearn.ac.tz) |
 | **[Project 2]** | [Short description] | [Code](https://github.com/username/repo) • [Demo](https://link-ya-demo) |
 | **[Project 3]** | [Short description] | [Code](https://github.com/username/repo) |
 
