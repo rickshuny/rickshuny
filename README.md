@@ -25,7 +25,7 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://aqua
 
 **AquaLearn** is a technology learning platform built for students and aspiring developers in Tanzania.
 
-- 🔗 **Visit:** [link-ya-aqualearn](https://aqualearn.ac.tz)
+- 🔗 **Visit:** [Aqualearn](https://aqualearn.ac.tz)
 - 📚 Courses and tutorials on technology
 - 👥 A community of learners and professionals growing together
 
@@ -67,9 +67,9 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://aqua
 
 ## 📫 Get in touch
 
-- 📧 Email: [name@example.com](mailto:name@example.com)
-- 💼 LinkedIn: [linkedin.com/in/name](https://linkedin.com/in/name)
-- 🌐 Website: [your-website](https://your-website)
+- 📧 Email: [support@aqualearn.ac.tz](support@aqualearn.ac.tz)
+- 💼 LinkedIn: [linkedin.com/in/aqua]([https://linkedin.com/in/name](https://www.linkedin.com/in/aquasmas-undefined-89a5b841a/))
+- 🌐Website: [website](aqualearn.ac.tz)
 
 <p align="center">
   <i>"Technology for every Tanzanian."</i> ✨
