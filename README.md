@@ -60,8 +60,7 @@ I'm a web and mobile app developer and the **creator of [AquaLearn](https://aqua
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🌊 **AquaLearn** | Technology learning platform in Tanzania | [Website](https://aqualearn.ac.tz) |
-| **[Project 2]** | [Short description] | [Code](https://github.com/username/repo) • [Demo](https://link-ya-demo) |
-| **[Project 3]** | [Short description] | [Code](https://github.com/username/repo) |
+
 
 ---
 
